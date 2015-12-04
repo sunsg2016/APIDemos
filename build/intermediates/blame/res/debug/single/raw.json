@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_view_focused_or_selected.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_view_focused_or_selected.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_view_hover_enter.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_view_hover_enter.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_view_clicked.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_view_clicked.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/skycubemap4.jpg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/skycubemap4.jpg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/skycubemap2.jpg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/skycubemap2.jpg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_ringer_silent.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_ringer_silent.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_window_state_changed.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_window_state_changed.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_ringer_vibrate.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_ringer_vibrate.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/robot.png",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/robot.png"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/skycubemap5.jpg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/skycubemap5.jpg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/androids.pkm",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/androids.pkm"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_screen_off.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_screen_off.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/skycubemap3.jpg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/skycubemap3.jpg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/skycubemap1.jpg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/skycubemap1.jpg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_screen_on.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_screen_on.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/test_cbr.mp3",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/test_cbr.mp3"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/sound_ringer_normal.ogg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/sound_ringer_normal.ogg"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/raw/skycubemap0.jpg",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/raw/skycubemap0.jpg"
+    }
+]

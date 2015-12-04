@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/animator/fragment_slide_right_exit.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/animator/fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/animator/fragment_slide_left_exit.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/animator/fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/animator/fragment_slide_left_enter.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/animator/fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/animator/fragment_slide_right_enter.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/animator/fragment_slide_right_enter.xml"
+    }
+]

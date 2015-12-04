@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/layout-land/fragment_layout.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/layout-land/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/layout-land/fragment_arguments.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/layout-land/fragment_arguments.xml"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/layout-land/grid_layout_2.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/layout-land/grid_layout_2.xml"
+    }
+]

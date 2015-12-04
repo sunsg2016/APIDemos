@@ -70,6 +70,8 @@ public class SecureDialogActivity extends Activity
         // Handle click events on the button to show the dialog.
         Button button = (Button)findViewById(R.id.show);
         button.setOnClickListener(this);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,
+                WindowManager.LayoutParams.FLAG_SECURE);
     }
 
     /**

@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/sunsg/breadtrip/code/android-17/ApiDemos/src/com/example/android/apis/app/ISecondary.aidl
+ * Original file: /Users/sunsg/Desktop/temp/ApiDemos/src/com/example/android/apis/app/ISecondary.aidl
  */
 package com.example.android.apis.app;
 /**

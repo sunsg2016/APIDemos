@@ -53,6 +53,11 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/initial_text">
         </EditText>
+        <Button
+            android:id="@+id/btn_recreate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="recreate"/>
 
     </LinearLayout>
 </ScrollView>

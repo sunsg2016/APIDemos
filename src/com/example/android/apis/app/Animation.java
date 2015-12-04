@@ -138,7 +138,7 @@ public class Animation extends Activity {
             v.refreshDrawableState();
             Bitmap bm = v.getDrawingCache();
             Canvas c = new Canvas(bm);
-            //c.drawARGB(255, 255, 0, 0);
+//            c.drawARGB(255, 255, 0, 0);
             ActivityOptions opts = ActivityOptions.makeThumbnailScaleUpAnimation(
                     v, bm, 0, 0);
             // Request the activity be started, using the custom animation options.

@@ -22,6 +22,8 @@ import com.example.android.apis.R;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -79,6 +81,14 @@ public class SaveRestoreState extends Activity
 
         // Set message to be appropriate for this screen.
         ((TextView)findViewById(R.id.msg)).setText(R.string.save_restore_msg);
+
+        Button btnRecreate = ((Button) findViewById(R.id.btn_recreate));
+        btnRecreate.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                recreate();
+            }
+        });
     }
 
     /**

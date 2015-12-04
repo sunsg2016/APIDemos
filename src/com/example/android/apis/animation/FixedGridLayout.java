@@ -79,6 +79,16 @@ public class FixedGridLayout extends ViewGroup {
         if (columns < 0) {
             columns = 1;
         }
+        
+        int leftMargen = r - columns * cellWidth;
+        if(leftMargen >=0){
+        	leftMargen = leftMargen/columns;
+        }else{
+        	leftMargen = 0;
+        }
+        int margentW = leftMargen;
+        int margenH = leftMargen;
+        
         int x = 0;
         int y = 0;
         int i = 0;
@@ -89,18 +99,21 @@ public class FixedGridLayout extends ViewGroup {
             int w = child.getMeasuredWidth();
             int h = child.getMeasuredHeight();
 
-            int left = x + ((cellWidth-w)/2);
-            int top = y + ((cellHeight-h)/2);
+            int left = x + ((cellWidth-w)/2) + margentW;
+            int top = y + ((cellHeight-h)/2) + margenH;
 
             child.layout(left, top, left+w, top+h);
             if (i >= (columns-1)) {
                 // advance to next row
                 i = 0;
                 x = 0;
+                margentW = leftMargen;
+                margenH += leftMargen;
                 y += cellHeight;
             } else {
                 i++;
                 x += cellWidth;
+                margentW += leftMargen;
             }
         }
     }

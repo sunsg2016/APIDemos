@@ -19,6 +19,7 @@ package com.example.android.apis.animation;
 // Need the following import to get access to the app resources, since this
 // class is in a sub-package.
 import android.animation.Animator;
+
 import com.example.android.apis.R;
 
 import java.util.ArrayList;
@@ -36,6 +37,8 @@ import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.shapes.OvalShape;
 import android.os.Bundle;
 import android.view.View;
+import android.view.animation.AccelerateDecelerateInterpolator;
+import android.view.animation.AccelerateInterpolator;
 import android.view.animation.BounceInterpolator;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -153,7 +156,7 @@ public class AnimationSeeking extends Activity {
         public void onAnimationUpdate(ValueAnimator animation) {
             invalidate();
             long playtime = bounceAnim.getCurrentPlayTime();
-            //mSeekBar.setProgress((int)playtime);
+            mSeekBar.setProgress((int)playtime);
         }
 
         public void onAnimationCancel(Animator animation) {

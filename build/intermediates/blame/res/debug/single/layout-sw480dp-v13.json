@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/layout-sw480dp-v13/resources_smallest_width_inner.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/layout-sw480dp/resources_smallest_width_inner.xml"
+    },
+    {
+        "merged": "/Users/sunsg/Documents/other/github/ApiDemos/build/intermediates/res/merged/debug/layout-sw480dp-v13/resources_smallest_width_row.xml",
+        "source": "/Users/sunsg/Documents/other/github/ApiDemos/res/layout-sw480dp/resources_smallest_width_row.xml"
+    }
+]
